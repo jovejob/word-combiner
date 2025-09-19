@@ -1,0 +1,12 @@
+{
+  "name": "word-combiner",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node tests/index.test.js"
+  },
+  "type": "module",
+  "author": "Jove Trajkoski",
+  "license": "MIT",
+  "description": "Rearrange words to fit the character limit"
+}
