@@ -6,6 +6,7 @@ A small JavaScript project that demonstrates two approaches (recursive and itera
 
 ## Project Structure
 
+```bash
 word-combiner/
 │
 ├─ src/
@@ -16,6 +17,7 @@ word-combiner/
 │
 ├─ package.json
 └─ README.md
+```
 
 ---
 
